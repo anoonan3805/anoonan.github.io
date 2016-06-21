@@ -6,7 +6,7 @@ title: Asha Noonan's CV
 ![Asha](./media/AshaImg.jpg){:.avatar}
 
 # Asha Noonan
-Student and Technology aficionado
+Hybrid Mobile App Development Student and Technology aficionado
 
 <div id="webaddress">
 <a href="mailto:">asha.nair.noonan@gmail.com</a>
