@@ -35,20 +35,26 @@ __Universidad de Guanajuato__ Guanajuato, Mexico<br>
 __Universidad San Ignacio de Loyola__ Cusco, Peru<br>
 
 
-## Technical skills
+## Technical Skills/Abilities
 
 * HTML and CSS
-* Javascript
+* JavaScript
 * Angular.js
+* Express.js
+* Node.js
+* MongoDB
 * MySQL 
+* MS SQL
 * Python
 * Windows/Macintosh OS
 * Microsoft Office Suite
 * Adobe Design Suite
-* Google fusion tables 
-* Video editing 
-* Social Media 
+* Google Fusion Tables 
+* Video Editing 
+* Social Media Management
 * CaptionTube
+* Fluent in Spanish
+* Public Speaking
 
 ## Projects
 <i class="fa fa-codepen"></i><a href ="http://codepen.io/anoonan3805/pen/VjaxjZ">Change Calculator</a><br>
