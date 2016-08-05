@@ -45,7 +45,9 @@ __Universidad San Ignacio de Loyola__ Cusco, Peru<br>
 * MongoDB
 * MySQL 
 * MS SQL
+* StrongLoop
 * Python
+* Github
 * Balsamiq
 * Pivotal Tracker
 * Windows/Macintosh OS
@@ -55,6 +57,8 @@ __Universidad San Ignacio de Loyola__ Cusco, Peru<br>
 * Video Editing 
 * Social Media Management
 * CaptionTube
+* Graphic Design
+* Web/UI Design
 * Fluent in Spanish
 * Public Speaking
 
