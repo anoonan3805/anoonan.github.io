@@ -6,14 +6,14 @@ title: Asha Noonan's CV
 ![Asha](./media/AshaImg.jpg){:.avatar}
 
 # Asha Noonan
-Hybrid Mobile App Development Student and Technology aficionado
+Hybrid Mobile App Development Student and Technology Aficionado
 
 <div id="webaddress">
 <a href="mailto:">asha.nair.noonan@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/">anoonan3805</a>
+<i class="fa fa-github"></i> <a href="http://github.com/anoonan3805">anoonan3805</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/">AshaErin</a>
+<i class="fa fa-twitter"></i> <a href="http://twitter.com/AshaErin">AshaErin</a>
 </div>
 
 
@@ -46,6 +46,8 @@ __Universidad San Ignacio de Loyola__ Cusco, Peru<br>
 * MySQL 
 * MS SQL
 * Python
+* Balsamiq
+* Pivotal Tracker
 * Windows/Macintosh OS
 * Microsoft Office Suite
 * Adobe Design Suite
@@ -58,7 +60,8 @@ __Universidad San Ignacio de Loyola__ Cusco, Peru<br>
 
 ## Projects
 <i class="fa fa-codepen"></i><a href ="http://codepen.io/anoonan3805/pen/VjaxjZ">Change Calculator</a><br>
-<i class="fa fa-khanacademy"></i><a href ="https://www.khanacademy.org/computer-programming/spin-off-of-orbiting-challenge-30/5508486001">Orbiting Challenge 3.0</a>
+<i class="fa fa-leaf"></i><a href ="https://www.khanacademy.org/computer-programming/spin-off-of-orbiting-challenge-30/5508486001">Orbiting Challenge 3.0</a><br>
+<i class="fa fa-cloud"></i><a href ="https://tktest-anoonan3805.c9users.io/#/">TK Test App</a><br>
 
 ### CV
 
