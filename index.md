@@ -13,7 +13,7 @@ Hybrid Mobile App Development Student and Technology Aficionado
 |
 <i class="fa fa-github"></i> <a href="http://github.com/anoonan3805">anoonan3805</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/AshaErin">AshaErin</a>
+
 </div>
 
 
@@ -137,4 +137,4 @@ Worked one on one with preschool aged children to integrate literacy and enrich 
 
 * <i class="fa fa-envelope"></i> <a href="mailto:">asha.nair.noonan@gmail.com</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/">anoonan3805</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/">AshaErin</a><br />
+
