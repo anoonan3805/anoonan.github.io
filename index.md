@@ -12,7 +12,6 @@ Hybrid Mobile App Development Student and Technology Aficionado
 <a href="mailto:">asha.nair.noonan@gmail.com</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/anoonan3805">anoonan3805</a>
-|
 
 </div>
 
@@ -67,7 +66,13 @@ __Universidad San Ignacio de Loyola__ Cusco, Peru<br>
 <p>The goal for this project was to create a calculator that takes a total amount owed and total amount given and tells you how much change is owed in quarters, dimes, nickels, and pennies.</p>
 
 <i class="fa fa-leaf"></i><a href ="https://www.khanacademy.org/computer-programming/spin-off-of-orbiting-challenge-30/5508486001">Orbiting Challenge 3.0</a><br>
+<p>The goal for this project was to make a solar system using Javascript. The project requirements were to add a sun,
+three planets of different colors and sizes that orbit the sun (without colliding into each other or the sun) and have
+one of the planets orbit in an elipse shape rather than circular.</p>
 <i class="fa fa-cloud"></i><a href ="https://tktest-anoonan3805.c9users.io/#/">TK Test App</a><br>
+<p>This was the first application I made as a student at Softstack Factory. The TK Test (or Thomas-Kilmann Instrunment) 
+is a self-scoring assessment that takes about fifteen minutes to complete. It allows you to discover whether you might 
+be overusing (high score) or underusing (low score) one or more of these five conflict-handling modes.</p>
 
 ### CV
 
