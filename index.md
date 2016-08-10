@@ -64,6 +64,8 @@ __Universidad San Ignacio de Loyola__ Cusco, Peru<br>
 
 ## Projects
 <i class="fa fa-codepen"></i><a href ="http://codepen.io/anoonan3805/pen/VjaxjZ">Change Calculator</a><br>
+<p>The goal for this project was to create a calculator that takes a total amount owed and total amount given and tells you how much change is owed in quarters, dimes, nickels, and pennies.</p>
+
 <i class="fa fa-leaf"></i><a href ="https://www.khanacademy.org/computer-programming/spin-off-of-orbiting-challenge-30/5508486001">Orbiting Challenge 3.0</a><br>
 <i class="fa fa-cloud"></i><a href ="https://tktest-anoonan3805.c9users.io/#/">TK Test App</a><br>
 
