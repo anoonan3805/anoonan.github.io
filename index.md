@@ -75,7 +75,7 @@ is a self-scoring assessment that takes about fifteen minutes to complete. It al
 be overusing (high score) or underusing (low score) one or more of five conflict-handling modes.</p>
 <i class="fa fa-cloud"></i><a href="https://item-tracker-anoonan3805.c9users.io:8081/#/" target="_blank">Item Tracker App</a><br>
 <p>This application was made for my final project at Softstack Factory. The requirements for this project were to allow 
-users to register, sign in and logout and store data on the backend. My goal was to create an app that keeps track of the whereabouts 
+users to register, sign in, logout and store data on the backend. My goal was to create an app that keeps track of the whereabouts 
 of the items in your home. You can search for the items based on their location, picture or keywords. Then, if you can't 
 remember where that elusive box of Christmas decorations went, you won't waste hours looking for it.</p>
 
