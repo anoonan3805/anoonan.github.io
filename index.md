@@ -77,7 +77,7 @@ be overusing (high score) or underusing (low score) one or more of five conflict
 <p>This application was made for my final project at Softstack Factory. The requirements for this project were to allow 
 users to sign in and register and to store data on the backend. My goal was to create an app that keeps track of the whereabouts 
 of the items in your home. You can search for the items based on their location, picture or keywords. Then, if you can't 
-remember where that elusive box of Christmas decorations went, you won't waste hours looking for it.
+remember where that elusive box of Christmas decorations went, you won't waste hours looking for it.</p>
 
 
 ### CV
