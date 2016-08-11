@@ -72,10 +72,10 @@ one of the planets orbit in an elipse shape rather than circular.</p>
 <i class="fa fa-cloud"></i><a href ="https://tktest-anoonan3805.c9users.io/#/" target="_blank">TK Test App</a><br>
 <p>This was the first application I made as a student at Softstack Factory. The TK Test (or Thomas-Kilmann Instrument) 
 is a self-scoring assessment that takes about fifteen minutes to complete. It allows you to discover whether you might 
-be overusing (high score) or underusing (low score) one or more of five conflict-handling modes.</p><br>
+be overusing (high score) or underusing (low score) one or more of five conflict-handling modes.</p>
 <i class="fa fa-cloud"></i><a href="https://item-tracker-anoonan3805.c9users.io:8081/#/" target="_blank">Item Tracker App</a><br>
 <p>This application was made for my final project at Softstack Factory. The requirements for this project were to allow 
-users to sign in and register and to store data on the backend. My goal was to create an app that keeps track of the whereabouts 
+users to register, sign in and logout and store data on the backend. My goal was to create an app that keeps track of the whereabouts 
 of the items in your home. You can search for the items based on their location, picture or keywords. Then, if you can't 
 remember where that elusive box of Christmas decorations went, you won't waste hours looking for it.</p>
 
