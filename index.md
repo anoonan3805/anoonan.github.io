@@ -18,7 +18,11 @@ Hybrid Mobile App Development Student and Technology Aficionado
 
 ## Currently
 
-I'm a student at Softstack Factory, due to finish around September 2016. I have eight years of experience in the non-profit and education sectors. Supervisory experience as well as strong collaboration and communication skills. Specialized study and background in mobile app development and information technology. Experience and leadership in working with diverse populations from work with disenfranchised constituents nationally, as well as international volunteer work.
+I'm a student at Softstack Factory, due to finish around September 2016. I have eight years of experience in the 
+non-profit and education sectors. Supervisory experience as well as strong collaboration and communication skills. 
+Specialized study and background in mobile app development and information technology. Experience and leadership in 
+working with diverse populations from work with disenfranchised constituents nationally, as well<br> as international 
+volunteer work.
 
 ## Education
 
@@ -38,10 +42,10 @@ __Universidad San Ignacio de Loyola__ Cusco, Peru<br>
 
 * HTML and CSS
 * JavaScript
+* MongoDB
 * Angular.js
 * Express.js
 * Node.js
-* MongoDB
 * MySQL 
 * MS SQL
 * StrongLoop
@@ -150,4 +154,5 @@ Worked one on one with preschool aged children to integrate literacy and enrich 
 
 * <i class="fa fa-envelope"></i> <a href="mailto:">asha.nair.noonan@gmail.com</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/">anoonan3805</a><br />
+* <i class="fa fa-file-pdf-o" aria-hidden="true"></i><a href="./media/ANNgd2016.pdf">Printable CV</a>
 
