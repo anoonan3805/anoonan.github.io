@@ -43,8 +43,8 @@ __Universidad San Ignacio de Loyola__ Cusco, Peru<br>
 * HTML and CSS
 * JavaScript
 * MongoDB
-* Angular.js
 * Express.js
+* Angular.js
 * Node.js
 * MySQL 
 * MS SQL
