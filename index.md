@@ -1,11 +1,11 @@
 ---
 layout: cv
-title: Asha Noonan's CV
+title: Asha Nair Noonan's CV
 ---
 
 ![Asha](./media/AshaImg.jpg){:.avatar}
 
-# Asha Noonan
+# Asha Nair Noonan
 Hybrid Mobile App Development Student and Technology Aficionado
 
 <div id="webaddress">
