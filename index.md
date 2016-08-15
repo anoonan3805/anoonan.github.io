@@ -129,7 +129,7 @@ Taught classes of up to 35 students in units covering iMovie, Photoshop, InDesig
 <em>Communications Lab Monitor</em><br>
 Managed budget of $250,000, authorized printing projects, fixed equipment, assisted professors and students, led training workshops.<br>
 <em>Technical Administrative Assistant</em><br>
-Staffed IT Help Desk, provided technical assistance to faculty and students, provided office support to the technology department, assisted and supported administrative managers and directors in their daily tasks, maintained and managed technical files and records in an organized manner, troubleshot and resolved customers' complex technical problems.
+Staffed IT Help Desk, provided technical assistance to faculty and students, provided office support to the technology department, assisted and supported administrative managers and directors in their daily tasks, maintained and managed technical files and records in an organized manner, troubleshot and resolved customers' complex technical problems.<br>
 `2010`
 __Democratic National Committee, Washington, DC__
 <em>New Media Department Intern</em><br>
