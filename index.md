@@ -48,11 +48,11 @@ __Universidad San Ignacio de Loyola__ Cusco, Peru<br>
 * Node.js
 * MySQL 
 * MS SQL
-* StrongLoop
 * Python
-* Github
 * Balsamiq
 * Pivotal Tracker
+* StrongLoop
+* Github
 * Windows/Macintosh OS
 * Microsoft Office Suite
 * Adobe Design Suite
@@ -122,13 +122,14 @@ __American Red Cross, San Diego, CA__
 Disaster preparedness and CPR/First Aid training for local community groups of up to 400 people. Provided direct service to clients of the American Red Cross as a Disaster Action Team Leader and Disaster Duty Officer. Volunteered
 with International Services for Refugee Community Outreach. Special projects included rewriting and redesigning volunteer workshops, creating all visual and print media requested by the chapter.
 
-`2010-2011` 
+`2008-2011` 
 __Simmons College, Boston, MA__<br>
 <em>Teaching Assistant for Communications Technologies and Visual Communications courses</em><br>
 Taught classes of up to 35 students in units covering iMovie, Photoshop, InDesign and Dreamweaver.<br>
 <em>Communications Lab Monitor</em><br>
 Managed budget of $250,000, authorized printing projects, fixed equipment, assisted professors and students, led training workshops.<br>
-
+<em>Technical Administrative Assistant</em><br>
+Staffed IT Help Desk, provided technical assistance to faculty and students, provided office support to the technology department, assisted and supported administrative managers and directors in their daily tasks, maintained and managed technical files and records in an organized manner, troubleshot and resolved customers' complex technical problems.
 `2010`
 __Democratic National Committee, Washington, DC__
 <em>New Media Department Intern</em><br>
@@ -154,5 +155,5 @@ Worked one on one with preschool aged children to integrate literacy and enrich 
 
 * <i class="fa fa-envelope"></i> <a href="mailto:">asha.nair.noonan@gmail.com</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/">anoonan3805</a><br />
-* <i class="fa fa-file-pdf-o" aria-hidden="true"></i><a href="./media/ANNgd2016.pdf">Printable CV</a>
+* <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="./media/ANNgd2016.pdf" target="_blank">Printable CV</a>
 
