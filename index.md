@@ -61,7 +61,7 @@ __Universidad San Ignacio de Loyola__ Cusco, Peru<br>
 * Social Media Management
 * CaptionTube
 * Graphic Design
-* Web/UI Design
+* UI/UX Design
 * Fluent in Spanish
 * Public Speaking
 
@@ -73,11 +73,11 @@ __Universidad San Ignacio de Loyola__ Cusco, Peru<br>
 <p>The goal for this project was to make a solar system using Javascript. The project requirements were to add a sun,
 three planets of different colors and sizes that orbit the sun (without colliding into each other or the sun) and have
 one of the planets orbit in an elipse shape rather than circular.</p>
-<i class="fa fa-cloud"></i><a href ="https://tktest-anoonan3805.c9users.io/#/" target="_blank">TK Test App</a><br>
+<i class="fa fa-cloud"></i><a href ="https://github.com/anoonan3805/TKTest" target="_blank">TK Test App</a><br>
 <p>This was the first application I made as a student at Softstack Factory. The TK Test (or Thomas-Kilmann Instrument) 
 is a self-scoring assessment that takes about fifteen minutes to complete. It allows you to discover whether you might 
 be overusing (high score) or underusing (low score) one or more of five conflict-handling modes.</p>
-<i class="fa fa-cloud"></i><a href="https://item-tracker-anoonan3805.c9users.io:8081/#/" target="_blank">Item Tracker App</a><br>
+<i class="fa fa-cloud"></i><a href="https://github.com/anoonan3805/item-tracker" target="_blank">Item Tracker App</a><br>
 <p>This application was made for my final project at Softstack Factory. The requirements for this project were to allow 
 users to register, sign in, logout and store data on the backend. My goal was to create an app that keeps track of the whereabouts 
 of the items in your home. You can search for the items based on their location, picture or keywords. Then, if you can't 
@@ -133,7 +133,7 @@ Staffed IT Help Desk, provided technical assistance to faculty and students, pro
 `2010`
 __Democratic National Committee, Washington, DC__
 <em>New Media Department Intern</em><br>
- Worked with former and current Chairs, director of Communications, and campaign managers to promote online organizing, advocacy, fundraising and communicating through the DNC and OFA websites and social media; awarded lead intern commendation.
+ Worked with former and current Chairs, director of Communications, and campaign managers to promote online organizing, advocacy, fundraising and communicating through the DNC and OFA websites and social media; awarded lead intern commendation.<br>
 
 `2009-2010`
 __The Warming Place Shelter, Amherst, MA__
