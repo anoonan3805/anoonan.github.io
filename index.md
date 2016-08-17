@@ -57,7 +57,7 @@ __Universidad San Ignacio de Loyola__ Cusco, Peru<br>
 * Balsamiq
 * Pivotal Tracker
 * StrongLoop
-* Github
+* GitHub
 * Windows/Macintosh OS
 * Microsoft Office Suite
 * Adobe Design Suite
@@ -78,15 +78,16 @@ __Universidad San Ignacio de Loyola__ Cusco, Peru<br>
 <p>The goal for this project was to make a solar system using Javascript. The project requirements were to add a sun,
 three planets of different colors and sizes that orbit the sun (without colliding into each other or the sun) and have
 one of the planets orbit in an elipse shape rather than circular.</p>
-<i class="fa fa-cloud"></i><a href ="https://github.com/anoonan3805/TKTest" target="_blank">TK Test App</a><br>
+<i class="fa fa-cloud"></i><a href ="https://github.com/anoonan3805/TKTest" target="_blank">TK Test App*</a><br>
 <p>This was the first application I made as a student at Softstack Factory. The TK Test (or Thomas-Kilmann Instrument) 
 is a self-scoring assessment that takes about fifteen minutes to complete. It allows you to discover whether you might 
 be overusing (high score) or underusing (low score) one or more of five conflict-handling modes.</p>
-<i class="fa fa-cloud"></i><a href="https://github.com/anoonan3805/item-tracker" target="_blank">Item Tracker App</a><br>
+<i class="fa fa-cloud"></i><a href="https://github.com/anoonan3805/item-tracker" target="_blank">Item Tracker App*</a><br>
 <p>This application was made for my final project at Softstack Factory. The requirements for this project were to allow 
 users to register, sign in, logout and store data on the backend. My goal was to create an app that keeps track of the whereabouts 
 of the items in your home. You can search for the items based on their location, picture or keywords. Then, if you can't 
 remember where that elusive box of Christmas decorations went, you won't waste hours looking for it.</p>
+<p>* These links lead to my GitHub repositories. To view the running apps please contact me so I can load the backend. Thank you!</p>
 
 
 ### CV
