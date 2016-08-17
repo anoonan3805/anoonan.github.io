@@ -12,6 +12,8 @@ Hybrid Mobile App Development Student and Technology Aficionado
 <a href="mailto:">asha.nair.noonan@gmail.com</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/anoonan3805">anoonan3805</a>
+|
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="./media/ANNgd2016.pdf" target="_blank">Printable CV</a>
 
 </div>
 
@@ -28,7 +30,7 @@ volunteer work.
 
 `2016`
 __SoftStack Factory__ San Diego, CA<br>
-14 week intensive bootcamp dedicated to learning a complete technology stack and best practices regarding technology and corporate etiquette.<br>  
+14 week intensive bootcamp dedicated to learning a complete technology stack and best practices regarding technology and corporate etiquette.  
 Emphasis on mobile app development, using a hybrid approach that delivers native apps and backend services using an MBaaS.<br> 
 
 `2007-2011`
@@ -92,7 +94,7 @@ remember where that elusive box of Christmas decorations went, you won't waste h
 
 ### CV
 
-I created this web page to show off my CV.  
+I created this web page to show off my CV. To download a PDF version click here: <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="./media/ANNgd2016.pdf" target="_blank">Printable CV</a>
 
 ## Achievements
 
