@@ -18,13 +18,18 @@ Hybrid Mobile App Development Student and Technology Aficionado
 
 ## Currently
 
-I'm a student at Softstack Factory, due to finish around September 2016. I have eight years of experience in the 
+I'm a student at SoftStack Factory, due to finish September 2016. I have eight years of experience in the 
 non-profit and education sectors. Supervisory experience as well as strong collaboration and communication skills. 
 Specialized study and background in mobile app development and information technology. Experience and leadership in 
 working with diverse populations from work with disenfranchised constituents nationally, as well<br> as international 
 volunteer work.
 
 ## Education
+
+`2016`
+__SoftStack Factory__ San Diego, CA<br>
+14 week intensive bootcamp dedicated to learning a complete technology stack and best practices regarding technology and corporate etiquette.<br>  
+Emphasis on mobile app development, using a hybrid approach that delivers native apps and backend services using an MBaaS.<br> 
 
 `2007-2011`
 __Simmons College__ Boston, MA<br> 
