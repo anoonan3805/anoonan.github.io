@@ -56,6 +56,7 @@ __Universidad San Ignacio de Loyola__ Cusco, Peru<br>
 * MySQL 
 * MS SQL
 * Python
+* Ionic Framework
 * Balsamiq
 * Pivotal Tracker
 * StrongLoop
@@ -66,7 +67,6 @@ __Universidad San Ignacio de Loyola__ Cusco, Peru<br>
 * Google Fusion Tables 
 * Video Editing 
 * Social Media Management
-* CaptionTube
 * Graphic Design
 * UI/UX Design
 * Fluent in Spanish
