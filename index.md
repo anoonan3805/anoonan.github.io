@@ -25,6 +25,7 @@ non-profit and education sectors. Supervisory experience as well as strong colla
 Specialized study and background in mobile app development and information technology. Experience and leadership in 
 working with diverse populations from work with disenfranchised constituents both professionally<br> and through
 volunteer work.
+
 ## Education
 
 `2016`
