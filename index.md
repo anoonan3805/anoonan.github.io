@@ -9,9 +9,11 @@ title: Asha Nair Noonan's CV
 Hybrid Mobile App Development Student and Technology Aficionado
 
 <div id="webaddress">
-<a href="mailto:">asha.nair.noonan@gmail.com</a>
+<a href="mailto:" target="_blank">asha.nair.noonan@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/anoonan3805">anoonan3805</a>
+<i class="fa fa-github"></i> <a href="http://github.com/anoonan3805" target="_blank">anoonan3805</a>
+|
+<i class="fa fa-linkedin" aria-hidden="true"></i> <a href="www.linkedin.com/in/asha-nair-noonan" target="_blank"> Asha Nair Noonan</a>
 |
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="./media/ANNgd2016.pdf" target="_blank">Printable CV</a>
 
@@ -161,7 +163,8 @@ Worked one on one with preschool aged children to integrate literacy and enrich 
 
 ## Links
 
-* <i class="fa fa-envelope"></i> <a href="mailto:">asha.nair.noonan@gmail.com</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/">anoonan3805</a><br />
+* <i class="fa fa-envelope"></i> <a href="mailto:"target="_blank">asha.nair.noonan@gmail.com</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/" target="_blank">anoonan3805</a><br />
+* <i class="fa fa-linkedin" aria-hidden="true"></i> <a href="www.linkedin.com/in/asha-nair-noonan" target="_blank"> Asha Nair Noonan</a>
 * <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="./media/ANNgd2016.pdf" target="_blank">Printable CV</a>
 
