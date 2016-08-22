@@ -144,7 +144,7 @@ __Democratic National Committee, Washington, DC__
 
 `2009-2010`
 __The Warming Place Shelter, Amherst, MA__
-<em>Shift Supervisor</em><br>Supervised 5 employees and 15 clients and managed opening and closing of shelter.<br>
+<em>Shift Supervisor</em><br>Supervised 5 employees and 15 clients and managed opening and closing of  homeless shelter.<br>
 
 `2007-2008`
 __Nazareth Family Day Care, Boston, MA__
@@ -157,6 +157,7 @@ Worked one on one with preschool aged children to integrate literacy and enrich 
 * International Travel 
 * Website design/management
 * Tennis
+* Social Justice work
 
 ## Links
 
