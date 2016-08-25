@@ -113,8 +113,8 @@ __Freelance Design__
 Freelance design work to provide identity, print and web design for a variety of clients.<br>
 <em>Select work: </em> City Heights Town Council –Website design, creation and maintenance<br>
 American Red Cross –Promotional posters and brochures for outreach events, both print and online<br>
-Measles Initiative –Created promtional handouts and designed fundraising materials<br>
-Craigs Doors, A Home Association, Inc. –Developed and designed logo, business cards and letterhead<br>
+Measles Initiative –Created promotional handouts and designed fundraising materials<br>
+Craig's Doors, A Home Association, Inc. –Developed and designed logo, business cards and letterhead<br>
 Alternative Spring Break: Simmons Builds –Developed and designed logo<br>
 The Women’s Center –Logo for The Beauty Campaign<br>
 
