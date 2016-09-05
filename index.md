@@ -17,7 +17,7 @@ Hybrid Mobile App Development Student and Technology Aficionado
 |
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="./media/ANNgd2016.pdf" target="_blank">Printable CV</a>
 |
-<i class = "fa fa-folder-open-o" aria-hidden="true"></i> <a href="http://ashanairnoonan.wixsite.com/portfolio" target="_blank"> Portfolio</a>
+<i class = "fa fa-folder-open-o" aria-hidden="true"></i> <a href="http://anoonan3805.wixsite.com/portfolio" target="_blank"> Portfolio</a>
 </div>
 
 
@@ -98,7 +98,7 @@ remember where that elusive box of Christmas decorations went, you won't waste h
 
 I created this web page to show off my CV.<br> 
 To download a PDF version click here: <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="./media/ANNgd2016.pdf" target="_blank">Printable CV</a><br>
-To see my graphic design portfolio click here: <i class = "fa fa-folder-open-o" aria-hidden="true"></i> <a href="http://ashanairnoonan.wixsite.com/portfolio" target="_blank"> Portfolio</a>
+To see my graphic design portfolio click here: <i class = "fa fa-folder-open-o" aria-hidden="true"></i> <a href="http://anoonan3805.wixsite.com/portfolio" target="_blank"> Portfolio</a>
 
 ## Achievements
 
