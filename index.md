@@ -16,7 +16,8 @@ Hybrid Mobile App Development Student and Technology Aficionado
 <i class="fa fa-linkedin" aria-hidden="true"></i> <a href="www.linkedin.com/in/asha-nair-noonan" target="_blank"> Asha Nair Noonan</a>
 |
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="./media/ANNgd2016.pdf" target="_blank">Printable CV</a>
-
+|
+<i class = "fa fa-folder-open" aria-hidden="true"></i> <a href="http://ashanairnoonan.wixsite.com/portfolio" target="_blank"> Portfolio</a>
 </div>
 
 
@@ -95,8 +96,9 @@ remember where that elusive box of Christmas decorations went, you won't waste h
 
 ### CV
 
-I created this web page to show off my CV. To download a PDF version click here: <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="./media/ANNgd2016.pdf" target="_blank">Printable CV</a>
-
+I created this web page to show off my CV. 
+To download a PDF version click here: <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="./media/ANNgd2016.pdf" target="_blank">Printable CV</a>
+To see my graphic design portfolio click here: <i class = "fa fa-folder-open" aria-hidden="true"></i> <a href="http://ashanairnoonan.wixsite.com/portfolio" target="_blank"> Portfolio</a>
 ## Achievements
 
 Dean's List
@@ -167,4 +169,5 @@ Worked one on one with preschool aged children to integrate literacy and enrich 
 * <i class="fa fa-github"></i> <a href="http://github.com/" target="_blank">anoonan3805</a><br />
 * <i class="fa fa-linkedin" aria-hidden="true"></i> <a href="www.linkedin.com/in/asha-nair-noonan" target="_blank"> Asha Nair Noonan</a>
 * <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="./media/ANNgd2016.pdf" target="_blank">Printable CV</a>
+* <i class = "fa fa-folder-open" aria-hidden="true"></i> <a href="http://ashanairnoonan.wixsite.com/portfolio" target="_blank"> Portfolio</a>
 
