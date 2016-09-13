@@ -23,10 +23,11 @@ Hybrid Mobile App Development Student and Technology Aficionado
 
 ## Currently
 
-I'm a student at SoftStack Factory, due to finish September 2016. I have eight years of experience in the 
-non-profit and education sectors. Supervisory experience as well as strong collaboration and communication skills. 
-Specialized study and background in mobile app development and information technology. Experience and leadership in 
-working with diverse populations from work with disenfranchised constituents both professionally and through volunteer work.
+I'm a recent graduate of SoftStack Factory, an intensive boot camp that focuses on building hybrid mobile apps 
+through the MEAN stack. I have eight years of experience in the non-profit and education sectors. Supervisory 
+experience as well as strong collaboration and communication skills. Specialized study and background in mobile 
+app development and information technology. Experience and leadership in working with diverse populations from 
+work with disenfranchised constituents both professionally and through volunteer work.
 
 ## Education
 
