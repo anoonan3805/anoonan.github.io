@@ -112,6 +112,11 @@ Member, Chi Tau chapter of Lambda Pi Eta, the National Communications Honor Soci
 
 ## Experience
 
+`2016-Present`
+__Any Session__
+<em>Mobile Application Developer</em><br>
+Mobile application development in C9 IDE environment using Ionic Framework.
+
 `2011-Present`
 __Freelance Design__ 
 Freelance design work to provide identity, print and web design for a variety of clients.<br>
